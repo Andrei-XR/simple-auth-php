@@ -1,4 +1,4 @@
 # simple-auth-php
-Projeto de autenticação básica utilizando PHP
+Basic authentication project using PHP.
 
-First of all, run the script from the .sql file, located in the databse/migrations folder, in your databse.
+First of all, run the script from the .sql file, located in the database/migrations folder, in your databse.
